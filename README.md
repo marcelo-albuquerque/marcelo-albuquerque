@@ -1,13 +1,21 @@
-<div style="margin-bottom: 2rem; padding: 2.5rem 2rem; font-family: Helvetica; border: 0.0625rem solid #666; border-radius: 0.5rem;">
-  <h3 style="margin: 0;text-align: center">Marcelo Albuquerque</h3>
+## Hi 👋 My name is Marcelo Albuquerque
 
-  <div style="text-align: center; font-size: 3.5rem;"><span style="font-weight: 700">Developer</span> <span style="font-weight: 400">&</span> <span style="font-family: Helvetica; font-weight: 700">Designer</span></div>
-
-  <p style="display: flex; align-items: center; justify-content: center; margin: 0; text-align: center; color: #6B66FF;">WEB DEVELOPMENT<span style="display: flex; margin: 0 1rem; font-size: 1.5rem; color: initial;">&#x2022;</span>DESIGN FOR WEB<span style="display: flex; margin: 0 1rem; font-size: 1.5rem; color: initial;">&#x2022;</span>TUTOR</p>
-</div>
+I am a 👨🏽‍💻 Programmer and 🎨 Designer specializing in building web applications that look beautiful and work very well.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [DEZENVE](http://dezenve.com.br)
 * ✉️  You can contact me at [marcelo@dezenve.com.br](mailto:marcelo@dezenve.com.br)
 * 🚀  I'm currently working on [Visite Naviraí](http://visitenavirai.com.br)
 * 🧠  I'm learning Typescript
+
+### Socials
+
+<div style="display: flex; gap: 0.5rem;">
+  <a href="https://www.linkedin.com/in/marcelo-albuquerke/" target="_blank" rel="noreferrer" style="display: flex;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://medium.com/@marcelo-albuquerque" target="_blank" rel="noreferrer" style="display: flex;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
