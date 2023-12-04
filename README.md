@@ -10,12 +10,8 @@ I am a 👨🏽‍💻 Programmer and 🎨 Designer specializing in building web
 
 ### Socials
 
-<div style="display: flex !important; gap: 0.5rem !important;">
-  <a href="https://www.linkedin.com/in/marcelo-albuquerke/" target="_blank" rel="noreferrer" style="display: flex;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-albuquerke/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/in/marcelo-albuquerke/)
+[![DEV.TO](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.linkedin.com/in/marcelo-albuquerke/)
 
-  <a href="https://medium.com/@marcelo-albuquerque" target="_blank" rel="noreferrer" style="display: flex;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
+### Experience
