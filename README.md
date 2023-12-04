@@ -1,12 +1,10 @@
 ## Hi 👋 My name is Marcelo Albuquerque
 
-I am a 👨🏽‍💻 Programmer and 🎨 Designer specializing in building web applications that look beautiful and work very well.
+I'm 👨🏽‍💻 Programmer and 🎨 Designer focused on building beautiful and functional web applications.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [DEZENVE](http://dezenve.com.br)
 * ✉️  You can contact me at [marcelo@dezenve.com.br](mailto:marcelo@dezenve.com.br)
-* 🚀  I'm currently working on [Visite Naviraí](http://visitenavirai.com.br)
-* 🧠  I'm learning Typescript
 
 ### Socials
 
@@ -21,6 +19,8 @@ I am a 👨🏽‍💻 Programmer and 🎨 Designer specializing in building web
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Support me
 
